@@ -483,11 +483,14 @@ textarea{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--second-color);
-    color: var(--color-white);
+    background:#efefef ;
+    color:black;
+    
 }
 .form-button>.btn:hover{
-    background: #00B5E7;
+    background:rgb(39, 139, 148) ;
+    color: white;
+    
 }
 .form-button i{
     font-size: 18px;
